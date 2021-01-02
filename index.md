@@ -1,35 +1,22 @@
-## Welcome to disposable-mailbox.eu - GitHub Pages
+# DE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## disposable-mailbox und disposable-mailbox.eu
 
-### Markdown
+### der Unterschied zwischen disposable-mailbox und disposable-mailbox.eu
+disposable-mailbox ist der bekannteste, selbst gehostete, disposable mailbox service für anonyme Wegwerf-eMail-Adressen im Internet!
+Nutze deine eigene Domain nur für dich - privat & anonym!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Der Dienst von disposable-mailbox.eu basiert auf auf dem GitHub Repository und ist gleichzeitig auch die Live - Entwicklungs- und Testumgebung.
+(Somit gilt, wie auch das Repository: Dies ist Beta-Software, es gibt noch ungelöste Probleme.)
+Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
 
-```markdown
-Syntax highlighted code block
+- [So funktioniert's](https://gh.disposable-mailbox.eu/de/about.html)
+- [Warum Wegwerf-eMails?](https://gh.disposable-mailbox.eu/de/why.html)
+- [FAQ](https://gh.disposable-mailbox.eu/de/FAQ.html) 
+- [News](https://gh.disposable-mailbox.eu/de/news.html) 
+---
+#### die Geschichte von disposable-mailbox
+disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2019 weiterentwickelt, danach wurde das Repository leider archiviert.
+Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pfeifferch/disposable-mailbox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+----
