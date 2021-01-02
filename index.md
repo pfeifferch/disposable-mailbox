@@ -14,9 +14,10 @@ Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
 - [Warum Wegwerf-eMails?](https://gh.disposable-mailbox.eu/de/why.html)
 - [FAQ](https://gh.disposable-mailbox.eu/de/FAQ.html) 
 - [News](https://gh.disposable-mailbox.eu/de/news.html) 
+
 ---
 #### die Geschichte von disposable-mailbox
 disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2019 weiterentwickelt, danach wurde das Repository leider archiviert.
 Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
-
 ----
+
