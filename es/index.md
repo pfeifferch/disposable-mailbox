@@ -1,8 +1,8 @@
-[Startseite](https://gh.disposable-mailbox.eu/de/) - [So funktioniert's](https://gh.disposable-mailbox.eu/de/about.html) - [Warum Wegwerf-eMails?](https://gh.disposable-mailbox.eu/de/why.html) - [FAQ](https://gh.disposable-mailbox.eu/de/FAQ.html) - [News](https://gh.disposable-mailbox.eu/de/news.html) 
+[Startseite](https://gh.disposable-mailbox.eu/es/) - [So funktioniert's](https://gh.disposable-mailbox.eu/es/about.html) - [Warum Wegwerf-eMails?](https://gh.disposable-mailbox.eu/es/why.html) - [FAQ](https://gh.disposable-mailbox.eu/es/FAQ.html) - [News](https://gh.disposable-mailbox.eu/es/news.html) 
 
 ---
 
-# DE  ( [EN](https://gh.disposable-mailbox.eu/en/index.html) - [ES](https://gh.disposable-mailbox.eu/es/index.html)- [HR](https://gh.disposable-mailbox.eu/hr/index.html) - [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
+# ES ( [DE](https://gh.disposable-mailbox.eu/de/index.html) - [EN](https://gh.disposable-mailbox.eu/en/index.html) - [HR](https://gh.disposable-mailbox.eu/hr/index.html) - [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
 
 
 ## disposable-mailbox und disposable-mailbox.eu
@@ -15,14 +15,14 @@ Der Dienst von disposable-mailbox.eu basiert auf auf dem GitHub Repository und i
 (Somit gilt, wie auch das Repository: Dies ist Beta-Software, es gibt noch ungelöste Probleme.)
 Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
 
-- [Startseite](https://gh.disposable-mailbox.eu/de/)
-- [So funktioniert's](https://gh.disposable-mailbox.eu/de/about.html)
-- [Warum Wegwerf-eMails?](https://gh.disposable-mailbox.eu/de/why.html)
-- [FAQ](https://gh.disposable-mailbox.eu/de/FAQ.html) 
-- [News](https://gh.disposable-mailbox.eu/de/news.html) 
+- [Startseite](https://gh.disposable-mailbox.eu/es/)
+- [So funktioniert's](https://gh.disposable-mailbox.eu/es/about.html)
+- [Warum Wegwerf-eMails?](https://gh.disposable-mailbox.eu/es/why.html)
+- [FAQ](https://gh.disposable-mailbox.eu/es/FAQ.html) 
+- [News](https://gh.disposable-mailbox.eu/es/news.html) 
 ---
 #### die Geschichte von disposable-mailbox
 disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2019 weiterentwickelt, danach wurde das Repository leider archiviert.
 Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
 
-----
+---
