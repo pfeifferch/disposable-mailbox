@@ -21,8 +21,11 @@ No registration, completely non-binding, anonymous and free of charge!
 - [Why temporary eMails?](https://gh.disposable-mailbox.eu/en/why.html)
 - [FAQ](https://gh.disposable-mailbox.eu/en/FAQ.html) 
 - [News](https://gh.disposable-mailbox.eu/en/news.html) 
+
 ---
+
 #### the history of disposable-mailbox
 disposable-mailbox was written by Aravindo Wingeier alias synox and developed further until 2019, after which the repository was unfortunately archived.  
 The repository pheifferch / disposable-mailbox wants to pick up where Synox left off.
-----
+
+---
