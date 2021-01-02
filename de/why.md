@@ -23,15 +23,15 @@ Wegwerf-eMail-Adressen nutzt man in der Regel dann, wenn man seine private eMail
 Denn bei solchen Anbietern ist die Gefahr groß, dass man anschließend ungewollte Newsletter oder Spam-eMails erhält.
 
 TrashMail-Adressen sollten nur im privaten Rahmen verwendet werden - niemals beruflich bzw. gewerblich, da die Sicherheit vor fremden Zugriffen in der Regel nicht ausreichend gewährleistet ist. 
-disposable-mailbox bietet z. B. Keinen Passwortschutz für Wegwerf-Adressen an, sondern nur das Generieren von Hash-ähnlichen eMail-Adressen, 
+disposable-mailbox (.eu) bietet z. B. *keinen* Passwortschutz für Wegwerf-Adressen an, sondern nur das Generieren von Hash-ähnlichen eMail-Adressen, 
 aber am Ende entscheidet der Nutzer selbst wie er solche Dienste verwendet und ist somit für die Sicherheit seiner Daten/eMails selbst verantwortlich.
 
 
 ## FUNKTIONIEREN TRASHMAIL-ADRESSEN IMMER? 
-> Nein! 
-> Einer der größten Probleme von Wegwerf-eMail-Adressen ist, dass im Web zahlreiche Blacklists existieren, auf denen alle bekannten Domains von TrashMail-Anbietern gelistet sind.
-> Hier kommt disposable-mailbox als self-hosted Service ins Spiel, denn du kannst dir den Dienst auf deinem eigenen Server Installieren und mit deiner/deinen eigenen Domain/s nutzen. 
-> Als Self-hosted Mailbox hast du auch die Möglichkeiten, den Zugriff vor unbefugten zu schützen (Webserver / htaccess - Passwortschutz oder du schreibst selbst ein wenig im Code, beachte jedoch dass deine Änderungen verloren gehen können wenn du von GitHub aktualisiert - oder du entwickelst gleich auf GitHub mit und lässt alle an deinem Wissen teilhaben und von der Weiterentwicklung profitieren;) )
+Nein! 
+Einer der größten Probleme von Wegwerf-eMail-Adressen ist, dass im Web zahlreiche Blacklists existieren, auf denen alle bekannten Domains von TrashMail-Anbietern gelistet sind.
+Hier kommt disposable-mailbox als self-hosted Service ins Spiel, denn du kannst dir den Dienst auf deinem eigenen Server Installieren und mit deiner/deinen eigenen Domain/s nutzen. 
+Als Self-hosted Mailbox hast du auch die Möglichkeiten, den Zugriff vor unbefugten zu schützen (Webserver / htaccess - Passwortschutz oder du schreibst selbst ein wenig im Code, beachte jedoch dass deine Änderungen verloren gehen können wenn du von GitHub aktualisiert - oder du entwickelst gleich auf GitHub mit und lässt alle an deinem Wissen teilhaben und von der Weiterentwicklung profitieren;) )
 
 
 
