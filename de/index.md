@@ -2,9 +2,10 @@
 
 
 # DE
-[https://gh.disposable-mailbox.eu/en/](EN)
-[https://gh.disposable-mailbox.eu/es/](ES)
-[https://gh.disposable-mailbox.eu/hr/](HR)
+[https://gh.disposable-mailbox.eu/en/index.html](EN)
+[https://gh.disposable-mailbox.eu/es/index.html](ES)
+[https://gh.disposable-mailbox.eu/hr/index.html](HR)
+[https://gh.disposable-mailbox.eu/nl/index.html](NL)
 
 ## disposable-mailbox und disposable-mailbox.eu
 
