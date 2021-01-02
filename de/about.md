@@ -1,6 +1,21 @@
-## SO FUNKTIONIERT'S
+# SO FUNKTIONIERT'S
 
-### WAS IST DISPOSABLE-MAILBOX .eu?
+## WAS IST DISPOSABLE-MAILBOX?
+## WAS IST DISPOSABLE-MAILBOX.eu?
+
+---
+
+### WAS IST DISPOSABLE-MAILBOX?
+Und was ist der Unterschied zwischen disposable-mailbox und disposable-mailbox.eu?
+disposable-mailbox ist der bekannteste, selbst gehostete, disposable mailbox service für anonyme Wegwerf-eMail-Adressen im Internet! Nutze deine eigene Domain nur für dich - privat & anonym!
+Der Dienst von disposable-mailbox.eu basiert auf auf dem GitHub Repository und ist gleichzeitig auch die Live - Entwicklungs- und Testumgebung. (Somit gilt, wie auch das Repository: Dies ist Beta-Software, es gibt noch ungelöste Probleme.) Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
+
+### WIE INSTALLIERE ICH DISPOSABLE-MAILBOX? 
+Die Installationsanleitung, Dateien und Infos zu den Systemvoraussetzumgen findest du auf GitHub.
+
+---
+
+### WAS IST DISPOSABLE-MAILBOX.EU?
 
 Disposable-mailbox.eu ist ein Dienst für sogenannte Wegwerf-eMail-Adressen.
 Verwende Disposable-mailbox.eu dort wo Du deine private eMail-Adresse nicht verwenden möchtest.
