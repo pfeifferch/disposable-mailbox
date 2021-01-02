@@ -26,10 +26,6 @@ disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2
 Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
 ----
 
-[Home](https://gh.disposable-mailbox.eu/en/) - [How it works](https://gh.disposable-mailbox.eu/en/about.html) - [Why temporary eMails?](https://gh.disposable-mailbox.eu/en/why.html) - [FAQ](https://gh.disposable-mailbox.eu/en/FAQ.html) - [News](https://gh.disposable-mailbox.eu/en/news.html) 
-
------
-
 # En
 
 ## disposable-mailbox and disposable-mailbox.eu
