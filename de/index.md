@@ -1,3 +1,6 @@
+# disposable-mailbox und disposable-mailbox.eu
+
+## der Unterschied zwischen disposable-mailbox und disposable-mailbox.eu
 disposable-mailbox ist der bekannteste, selbst gehostete, disposable mailbox service für anonyme Wegwerf-eMail-Adressen im Internet!
 Nutze deine eigene Domain nur für dich - privat & anonym!
 
@@ -13,4 +16,4 @@ Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
 
 ### die Geschichte von disposable-mailbox
 disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2019 weiterentwickelt, danach wurde das Repository leider archiviert.
-Das Repository pheifferch/disposable-mailbox (als Detached Fork) möchte da weitermachen, wo Synox aufgehört hat.
+Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
