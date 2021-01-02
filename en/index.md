@@ -8,12 +8,13 @@
 ## disposable-mailbox and disposable-mailbox.eu
 
 ### the difference between disposable-mailbox and disposable-mailbox.eu
-disposable-mailbox ist der bekannteste, selbst gehostete, disposable mailbox service für anonyme Wegwerf-eMail-Adressen im Internet!
-Nutze deine eigene Domain nur für dich - privat & anonym!
+disposable-mailbox is the best-known, self-hosted, disposable mailbox service for anonymous disposable email addresses on the Internet!  
+Use your own domain just for you - private & anonymous!
 
-Der Dienst von disposable-mailbox.eu basiert auf auf dem GitHub Repository und ist gleichzeitig auch die Live - Entwicklungs- und Testumgebung.
-(Somit gilt, wie auch das Repository: Dies ist Beta-Software, es gibt noch ungelöste Probleme.)
-Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
+The service of disposable-mailbox.eu is based on the GitHub repository and is also the live development and test environment.
+(So, like the repository: This is beta software, there are still unsolved problems.) 
+No registration, completely non-binding, anonymous and free of charge!
+
 
 - [Home](https://gh.disposable-mailbox.eu/en/)
 - [How it works](https://gh.disposable-mailbox.eu/en/about.html)
@@ -22,7 +23,6 @@ Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
 - [News](https://gh.disposable-mailbox.eu/en/news.html) 
 ---
 #### the history of disposable-mailbox
-disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2019 weiterentwickelt, danach wurde das Repository leider archiviert.
-Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
-
+disposable-mailbox was written by Aravindo Wingeier alias synox and developed further until 2019, after which the repository was unfortunately archived.  
+The repository pheifferch / disposable-mailbox wants to pick up where Synox left off.
 ----
