@@ -25,4 +25,4 @@ Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
 disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2019 weiterentwickelt, danach wurde das Repository leider archiviert.
 Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
 
-----
+---
