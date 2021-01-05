@@ -2,8 +2,8 @@
 
 # SO FUNKTIONIERT'S
 
-## WAS IST DISPOSABLE-MAILBOX?
-## WAS IST DISPOSABLE-MAILBOX.eu?
+- ## WAS IST DISPOSABLE-MAILBOX?
+- ## WAS IST DISPOSABLE-MAILBOX.eu?
 
 ---
 
@@ -34,7 +34,7 @@ Der Dienst von disposable-mailbox.eu basiert auf auf dem [GitHub Repository](htt
 Nutzung für Desktops, Tablets & Smartphones optimiert
 Empfang von Text & HTML-eMails mit Dateianhängen
 Speichern (EML-Datei) von eMails
-eMails bleiben 30 Tage erhalten
+eMails bleiben 24 Tage erhalten
 Verschiedene Domains verfügbar
 Direkter Zugang über Bookmark möglich
 Open Source 
@@ -52,8 +52,9 @@ Zum Beispiel: irgendwas@zaun.ml.
 3. Fertig
 Das war's schon. Einfach, oder?
 
-Tipp: Besitzt Du eine eigene ungenutzte Domain? 
-Dann verwende sie doch für deine eigene Disposable Mailbox...
+> Tipp:
+> Besitzt Du eine eigene ungenutzte Domain? 
+> Dann verwende sie doch für deine eigene Disposable Mailbox...
 
 
 Benötigst Du diese Wegwerf-eMail-Adresse nicht mehr, dann vergesse Sie einfach!
