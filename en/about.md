@@ -28,7 +28,7 @@ Use Disposable-mailbox.eu where you do not want to use your private email addres
 So you can protect yourself against spam and unwanted newsletters!
 
 If you don't know what disposable email addresses are, visit the page:
-[Why do you use disposable email addresses](https://gh.disposable-mailbox.eu/de/why.html)
+[Why do you use disposable email addresses](https://gh.disposable-mailbox.eu/en/why.html)
 
 The service of disposable-mailbox.eu is based on the [GitHub Repository](https://github.com/pfeifferch/disposable-mailbox) and is at the same time the live development and test environment.
 
