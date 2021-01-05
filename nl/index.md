@@ -1,8 +1,10 @@
-[Startseite](https://gh.disposable-mailbox.eu/de/) - [So funktioniert's](https://gh.disposable-mailbox.eu/de/about.html) - [Warum Wegwerf-eMails?](https://gh.disposable-mailbox.eu/de/why.html) - [FAQ](https://gh.disposable-mailbox.eu/de/FAQ.html) - [News](https://gh.disposable-mailbox.eu/de/news.html) 
+[Startpagina](https://gh.disposable-mailbox.eu/nl/) - [Dit is hoe het werkt](https://gh.disposable-mailbox.eu/nl/about.html) - [Waarom e-mails weggooien?](https://gh.disposable-mailbox.eu/nl/why.html) - [FAQ](https://gh.disposable-mailbox.eu/nl/FAQ.html) - [Nieuws](https://gh.disposable-mailbox.eu/nl/news.html) 
 
 ---
+#Deze pagina wordt vertaald, kom later terug
+---
 
-# DE  ( [EN](https://gh.disposable-mailbox.eu/en/index.html) - [ES](https://gh.disposable-mailbox.eu/es/index.html)- [HR](https://gh.disposable-mailbox.eu/hr/index.html) - [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
+# NL  ( [DE](https://gh.disposable-mailbox.eu/de/index.html) -  [EN](https://gh.disposable-mailbox.eu/en/index.html) - [ES](https://gh.disposable-mailbox.eu/es/index.html) - [HR](https://gh.disposable-mailbox.eu/hr/index.html) )
 
 
 ## disposable-mailbox und disposable-mailbox.eu
