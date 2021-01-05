@@ -8,9 +8,12 @@
 ---
 
 ### WAS IST DISPOSABLE-MAILBOX?
-Und was ist der Unterschied zwischen disposable-mailbox und disposable-mailbox.eu?
-disposable-mailbox ist der bekannteste, selbst gehostete, disposable mailbox service für anonyme Wegwerf-eMail-Adressen im Internet! Nutze deine eigene Domain nur für dich - privat & anonym!
-Der Dienst von disposable-mailbox.eu basiert auf auf dem GitHub Repository und ist gleichzeitig auch die Live - Entwicklungs- und Testumgebung. (Somit gilt, wie auch das Repository: Dies ist Beta-Software, es gibt noch ungelöste Probleme.) Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
+Und was ist der Unterschied zwischen disposable-mailbox und disposable-mailbox.eu? 
+disposable-mailbox ist der bekannteste, selbst gehostete, disposable mailbox service für anonyme Wegwerf-eMail-Adressen im Internet! 
+Nutze deine eigene Domain nur für dich - privat & anonym! 
+
+Der Dienst von disposable-mailbox.eu basiert auf auf dem [GitHub Repository](https://github.com/pfeifferch/disposable-mailbox) und ist gleichzeitig auch die Live - Entwicklungs- und Testumgebung. (Somit gilt, wie auch das Repository: Dies ist Beta-Software, es gibt noch ungelöste Probleme.) 
+Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
 
 ### WIE INSTALLIERE ICH DISPOSABLE-MAILBOX? 
 Die Installationsanleitung, Dateien und Infos zu den Systemvoraussetzumgen findest du auf [GitHub](https://github.com/pfeifferch/disposable-mailbox).
@@ -19,12 +22,13 @@ Die Installationsanleitung, Dateien und Infos zu den Systemvoraussetzumgen finde
 
 ### WAS IST DISPOSABLE-MAILBOX.EU?
 
-Disposable-mailbox.eu ist ein Dienst für sogenannte Wegwerf-eMail-Adressen.
+Disposable-mailbox.eu ist ein Dienst für sogenannte Wegwerf-eMail-Adressen. 
 Verwende Disposable-mailbox.eu dort wo Du deine private eMail-Adresse nicht verwenden möchtest.
 
 So kannst Du dich gegen Spam und ungewollte Newsletter schützen!
 
-Wenn Du nicht weißt was Wegwerf-eMail-Adressen sind, dann besuche die Seite: Warum nutzt man Wegwerf-eMail-Adressen
+Wenn Du nicht weißt was Wegwerf-eMail-Adressen sind, dann besuche die Seite: 
+[Warum nutzt man Wegwerf-eMail-Adressen](https://gh.disposable-mailbox.eu/de/why.html) 
 
 Der Dienst von disposable-mailbox.eu basiert auf auf dem [GitHub Repository](https://github.com/pfeifferch/disposable-mailbox) und ist gleichzeitig auch die Live - Entwicklungs- und Testumgebung.
 
@@ -58,8 +62,8 @@ Das war's schon. Easy, oder?
 > Dann verwende sie doch für deine eigene Disposable Mailbox...
 
 
-Benötigst Du diese Wegwerf-eMail-Adresse nicht mehr, dann vergesse Sie einfach!
+Benötigst Du diese Wegwerf-eMail-Adresse nicht mehr, dann vergesse Sie einfach! 
 Kündigen oder Löschen musst Du diese eMail-Adresse nicht, 
-maximal solltest Du deine empfangenen eMails löschen, wenn diese persönliche Informationen enthalten.
+maximal solltest Du deine empfangenen eMails löschen, wenn diese persönliche Informationen enthalten. 
 
 Aber selbstverständlich werden vorhandene eMails auch automatisch nach 24 Tagen gelöscht.
