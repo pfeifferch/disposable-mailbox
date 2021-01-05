@@ -1,6 +1,8 @@
 [Početna stranica](https://gh.disposable-mailbox.eu/hr/) - [Ovako to djeluje](https://gh.disposable-mailbox.eu/hr/about.html) - [Zašto baciti mailove?](https://gh.disposable-mailbox.eu/hr/why.html) - [Pitanja](https://gh.disposable-mailbox.eu/hr/FAQ.html) - [Vijesti](https://gh.disposable-mailbox.eu/hr/news.html) 
 
 ---
+# Ova se stranica prevodi, provjerite kasnije
+---
 
 # HR  ( [DE](https://gh.disposable-mailbox.eu/de/index.html) - [EN](https://gh.disposable-mailbox.eu/en/index.html) - [ES](https://gh.disposable-mailbox.eu/es/index.html)- [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
 
