@@ -31,26 +31,27 @@ Der Dienst von disposable-mailbox.eu basiert auf auf dem [GitHub Repository](htt
 
 ### ALLE FUNKTIONEN IM ÜBERBLICK
 
-Nutzung für Desktops, Tablets & Smartphones optimiert
-Empfang von Text & HTML-eMails mit Dateianhängen
-Speichern (EML-Datei) von eMails
-eMails bleiben 24 Tage erhalten
-Verschiedene Domains verfügbar
-Direkter Zugang über Bookmark möglich
-Open Source 
+- Nutzung für Desktops, Tablets & Smartphones optimiert
+- Empfang von Text & HTML-eMails mit Dateianhängen
+- Speichern (EML-Datei) von eMails
+- eMails bleiben 24 Tage erhalten
+- Verschiedene Domains verfügbar
+- Direkter Zugang über Bookmark möglich
+- Open Source 
 
 ### SO FUNKTIONIERT ES
 
 Mögliche Ausgangssituation: 
-Du wirst bei einer unbekannten Webseite aufgefordert deine eMail-Adresse einzutragen. 
-Frage: Was geschieht mit dieser? Weiterverkauf, Spam oder Newsletter?
+ Du wirst bei einer unbekannten Webseite aufgefordert deine eMail-Adresse einzutragen. 
+Frage: 
+ Was geschieht mit dieser? Weiterverkauf, Spam oder Newsletter?
 Jetzt kommt disposable-mailbox.eu ins Spiel!
 
 1. Denke Dir eine eMail-Adresse in Verbindung mit einer der zur Verfügung stehenden Domains aus
-Zum Beispiel: irgendwas@zaun.ml.
+   Zum Beispiel: irgendwas@zaun.ml.
 2. Postfach abrufen & eMail lesen 
 3. Fertig
-Das war's schon. Einfach, oder?
+Das war's schon. Easy, oder?
 
 > Tipp:
 > Besitzt Du eine eigene ungenutzte Domain? 
@@ -58,6 +59,7 @@ Das war's schon. Einfach, oder?
 
 
 Benötigst Du diese Wegwerf-eMail-Adresse nicht mehr, dann vergesse Sie einfach!
-Kündigen oder Löschen musst Du diese eMail-Adresse nicht, maximal solltest Du deine empfangenen eMails löschen, wenn diese persönliche Informationen enthalten.
+Kündigen oder Löschen musst Du diese eMail-Adresse nicht, 
+maximal solltest Du deine empfangenen eMails löschen, wenn diese persönliche Informationen enthalten.
 
 Aber selbstverständlich werden vorhandene eMails auch automatisch nach 24 Tagen gelöscht.
