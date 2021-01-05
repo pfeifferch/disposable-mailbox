@@ -1,6 +1,9 @@
-[Startseite](https://gh.disposable-mailbox.eu/es/) - [So funktioniert's](https://gh.disposable-mailbox.eu/es/about.html) - [Warum Wegwerf-eMails?](https://gh.disposable-mailbox.eu/es/why.html) - [FAQ](https://gh.disposable-mailbox.eu/es/FAQ.html) - [News](https://gh.disposable-mailbox.eu/es/news.html) 
+[Página de inicio](https://gh.disposable-mailbox.eu/es/) - [Así es como funciona](https://gh.disposable-mailbox.eu/es/about.html) - [¿Por qué tirar los correos electrónicos?](https://gh.disposable-mailbox.eu/es/why.html) - [Preguntas más frecuentes](https://gh.disposable-mailbox.eu/es/FAQ.html) - [Noticias](https://gh.disposable-mailbox.eu/es/news.html) 
 
 ---
+# Esta página se está traduciendo, vuelva a consultar más tarde
+---
+
 
 # ES ( [DE](https://gh.disposable-mailbox.eu/de/index.html) - [EN](https://gh.disposable-mailbox.eu/en/index.html) - [HR](https://gh.disposable-mailbox.eu/hr/index.html) - [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
 
