@@ -17,6 +17,7 @@ No registration, completely without obligation, anonymous and free of charge!
 
 ### HOW TO INSTALL DISPOSABLE-MAILBOX? 
 You can find the installation instructions, files and information about the system requirements on [GitHub](https://github.com/pfeifferch/disposable-mailbox).
+
 ---
 
 ### WHAT IS DISPOSABLE-MAILBOX.EU?
