@@ -4,57 +4,58 @@
 # This page is being translated, please come back later
 ---
 
-## HÄUFIG GESTELLTE FRAGEN (FAQ)
+## FREQUENTLY ASKED QUESTIONS (FAQ)
 
 
-###  1. IST DIESER DIENST KOSTENLOS UND WIE FINANZIERT ER SICH?
+### IS THIS SERVICE FREE AND HOW IS IT FUNDED?
 
-Ja, dieser Dienst ist komplett kostenlos! 
-disposable-mailbox.eu finanziert sich ausschließlich durch Werbeeinblendungen.
+Yes, this service is completely free!
+disposable-mailbox.eu is financed through advertisements.
 
-###  2. WIE SICHER SIND MEINE EMAILS VOR UNERWÜNSCHTEN MITLESERN?
+### HOW SAFE ARE MY EMAILS FROM UNWANTED READERS?
 
-Die Sicherheit deiner E-Mails hängt von der Wahl deines E-Mail-Alias (Lokalteil) ab. 
-Um eine große Sicherheit zu erlangen, generiere dir einen zufälligen E-Mail-Alias. 
-Ein generierter E-Mail-Alias ist schwer zu erraten und somit sind deine E-Mails sicherer gegen ungewollte Leser.
+The security of your emails depends on the choice of your email alias (local part).
+To achieve a high level of security, generate a random email alias for you.
+A generated email alias is difficult to guess, so your emails are more secure against unwanted readers.
 
-###  3. ICH HABE EINE FEHLER ENTDECKT ODER HABE EINEN VERBESSERUNGSVORSCHLAG!?
+### I HAVE DISCOVERED A BUG OR HAVE A SUGGESTION FOR IMPROVEMENT !?
 
-disposable-mailbox.eu soll einen zuverlässigen und professionellen Service darstellen.
-Solltest Du Ideen zur Verbesserung, oder einen Fehler entdeckt haben, Kannst du auf GitHub bei der Weiterentwicklung mithelfen. 
+disposable-mailbox.eu should represent a reliable and professional service.
+If you have ideas for improvement or discovered a bug, you can help with the further development on GitHub.
 
-###  4. WOZU DIENT DIESER SERVICE?
+### WHAT IS THIS SERVICE FOR?
 
-Die Erklärung findest Du unter "So funktioniert's".
+You can find the explanation under "How it works".
 
-###  5. WIE LANGE BLEIBEN DIE E-MAILS IN EINEM POSTEINGANG ERHALTEN?
+### HOW LONG DO THE EMAILS RECEIVE IN AN INBOX?
 
-24 Tage
+24 days
 
-###  6. WIE VIELE E-MAIL-ALIASE (LOKALTEILE) DARF ICH BENUTZEN?
+### HOW MANY EMAIL ALIASES (LOCAL PARTS) CAN I USE?
 
-So viele wie Du möchtest.
+As many as you want.
 
-###  7. WAS IST EIN E-MAIL-ALIAS (LOKALTEIL)?
+### WHAT IS AN EMAIL ALIAS (LOCAL PART)?
 
-Eine E-Mail-Alias (Lokalteil) ist die Bezeichung einer E-Mail-Adresse vor dem @-Zeichen. Zum Beispiel: ALIAS@allee.ml
+An e-mail alias (local part) is the name of an e-mail address before the @ sign.  For example: ALIAS@allee.ml
 
-###  8. WIE LANGE BLEIBT MEIN PASSWORT GESICHERTER POSTEINGANG GESCHÜTZT?
+### Are there blocked email aliases?
 
-Es gibt derzeit noch keinen integrierten Passwortschutz 
+Yes, some aliases such as Abuse, Webmaster and the like, as well as alias for which malicious activity was reported, will be blocked.
 
-###  9. GIBT ES E-MAILS DIE NICHT EMPFANGEN BZW. GEBLOCKT WERDEN?
+### HOW LONG WILL MY SECURED INBOX PASSWORD WILL BE PROTECTED?
+### IS THE PASSWORD PROTECTION OF AN INBOX COMPLETELY SECURE?
 
-Ja! Eindeutiger Spam wird geblockt. 
+There is currently no integrated password protection
 
-### 10. IST DER PASSWORTSCHUTZ EINES POSTEINGANGES VOLLKOMMEN SICHER?
+### ARE E-MAILS NOT RECEIVED OR  BE BLOCKED?
 
-disposable-mailbox hat zur Zeit keinen integrierten Passwortschutz. 
+Yes! Clear spam is blocked. 
 
-### 11. DU ERHÄLTST SPAM VON DISPOSABLE-MAILBOX.EU?
+### ARE YOU RECEIVING SPAM FROM DISPOSABLE-MAILBOX.EU?
 
-DU ERHÄLTST KEINEN SPAM VON DISPOSABLE-MAILBOX.EU!
-Es kommt leider immer wieder vor, das Spammer unseren seriösen und legalen Dienst für ihre dubiosen Machenschaften missbrauchen.
-Technisch ist es ein Kinderspiel E-Mails mit freiwählbaren Absender (in diesem Fall z.B. disposable-mailbox.eu) zu verschicken.
+NOPE! YOU WILL NOT RECEIVE SPAM FROM DISPOSABLE-MAILBOX.EU!
+Unfortunately it happens again and again that spammers abuse our reputable and legal service for their dubious machinations.
+Technically, it is child's play to send emails with freely selectable senders (in this case e.g. disposable-mailbox.eu).
 
-Wir haben darauf leider keinen Einfluss. Wir können nur im Falle von Anzeigen oder Klagen mit unseren vorliegenden Log-Daten den ermittelnden Behörden Unterstützung leisten!
+Unfortunately, we have no influence on this.  We can only provide support to the investigating authorities with our log data in the event of reports or lawsuits!
