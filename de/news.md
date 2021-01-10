@@ -8,7 +8,7 @@
 
 Test1:
 <ul>
- {% for post in site.posts %}
+ {_% for post in site.posts %}
  <li>
   <a href="{{ post.url }}">{{ post.title }}</a>
  </li>
@@ -31,7 +31,7 @@ Test2:
 ---
 
 Test3:
-{% for category in category.de %} 
+{_% for category in category.de %} 
 <h3>{{ tag[0] }}</h3>
 <ul> {% for post in tag[1] %} 
 <li>
