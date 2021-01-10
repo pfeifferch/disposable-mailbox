@@ -8,26 +8,27 @@
 # ES ( [DE](https://gh.disposable-mailbox.eu/de/index.html) - [EN](https://gh.disposable-mailbox.eu/en/index.html) - [HR](https://gh.disposable-mailbox.eu/hr/index.html) - [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
 
 
-## disposable-mailbox und disposable-mailbox.eu
+## disposable-mailbox y disposable-mailbox.eu
 
-### der Unterschied zwischen disposable-mailbox und disposable-mailbox.eu
-disposable-mailbox ist der bekannteste, selbst gehostete, disposable mailbox service für anonyme Wegwerf-eMail-Adressen im Internet!
-Nutze deine eigene Domain nur für dich - privat & anonym!
+### la diferencia entre disposable-mailbox y disposable-mailbox.eu
+disposable-mailbox es el servicio de buzón desechable, autohospedado y más conocido para direcciones de correo electrónico desechables anónimas en Internet.
+ Utilice su propio dominio solo para usted, ¡privado y anónimo!
 
-Der Dienst von disposable-mailbox.eu basiert auf auf dem GitHub Repository und ist gleichzeitig auch die Live - Entwicklungs- und Testumgebung.
-(Somit gilt, wie auch das Repository: Dies ist Beta-Software, es gibt noch ungelöste Probleme.)
-Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
+ El servicio de disposable-mailbox.eu se basa en el repositorio de GitHub y también es el entorno de prueba y desarrollo en vivo.
+ (Entonces, como el repositorio: este es un software beta, todavía hay problemas sin resolver).
+ ¡Sin registro, completamente sin compromiso, anónimo y gratuito!
 
-- [Startseite](https://gh.disposable-mailbox.eu/es/)
-- [So funktioniert's](https://gh.disposable-mailbox.eu/es/about.html)
-- [Warum Wegwerf-eMails?](https://gh.disposable-mailbox.eu/es/why.html)
-- [FAQ](https://gh.disposable-mailbox.eu/es/FAQ.html) 
-- [News](https://gh.disposable-mailbox.eu/es/news.html) 
+- [Página de inicio](https://gh.disposable-mailbox.eu/es/) 
+- [Así es como funciona](https://gh.disposable-mailbox.eu/es/about.html) 
+- [¿Por qué tirar los correos electrónicos?](https://gh.disposable-mailbox.eu/es/why.html) 
+- [Preguntas más frecuentes](https://gh.disposable-mailbox.eu/es/FAQ.html) 
+- [Noticias](https://gh.disposable-mailbox.eu/es/news.html) 
+
 
 ---
 
-#### die Geschichte von disposable-mailbox
-disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2019 weiterentwickelt, danach wurde das Repository leider archiviert.
-Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
+#### #### la historia del disposable-mailbox
+disposable-mailbox fue escrito por Aravindo Wingeier alias synox y se desarrolló aún más hasta 2019, después de lo cual, lamentablemente, el repositorio se archivó.
+El repositorio pheifferch/disposable-mailbox quiere continuar donde lo dejó Synox.
 
 ---
