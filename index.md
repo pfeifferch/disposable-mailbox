@@ -55,14 +55,7 @@ The repository pheifferch / disposable-mailbox wants to pick up where Synox left
 
 ---
 
-#ES
-
-[Página de inicio](https://gh.disposable-mailbox.eu/es/) - [Así es como funciona](https://gh.disposable-mailbox.eu/es/about.html) - [¿Por qué tirar los correos electrónicos?](https://gh.disposable-mailbox.eu/es/why.html) - [Preguntas más frecuentes](https://gh.disposable-mailbox.eu/es/FAQ.html) - [Noticias](https://gh.disposable-mailbox.eu/es/news.html) 
-
----
-
-# ES ( [DE](https://gh.disposable-mailbox.eu/de/index.html) - [EN](https://gh.disposable-mailbox.eu/en/index.html) - [HR](https://gh.disposable-mailbox.eu/hr/index.html) - [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
-
+# ES
 
 ## disposable-mailbox y disposable-mailbox.eu
 
