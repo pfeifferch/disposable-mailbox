@@ -23,7 +23,7 @@ El servicio de disposable-mailbox.eu se basa en el repositorio de GitHub y tambi
 
 ---
 
-#### #### la historia del disposable-mailbox
+#### la historia del disposable-mailbox
 disposable-mailbox fue escrito por Aravindo Wingeier alias synox y se desarrolló aún más hasta 2019, después de lo cual, lamentablemente, el repositorio se archivó.
 El repositorio pheifferch/disposable-mailbox quiere continuar donde lo dejó Synox.
 
