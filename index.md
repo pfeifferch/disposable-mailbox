@@ -2,7 +2,7 @@
 
 ---
 
-# DE
+> # DE
 
 ## disposable-mailbox und disposable-mailbox.eu
 
@@ -22,13 +22,13 @@ Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
 
 ---
 
-#### die Geschichte von disposable-mailbox
-disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2019 weiterentwickelt, danach wurde das Repository leider archiviert.
-Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
+> #### die Geschichte von disposable-mailbox
+> disposable-mailbox wurde von Aravindo Wingeier Alias synox geschrieben und bis 2019 weiterentwickelt, danach wurde das Repository leider archiviert.
+> Das Repository pheifferch/disposable-mailbox möchte da weitermachen, wo Synox aufgehört hat.
 
 ---
 
-# En
+> # En
 
 ## disposable-mailbox and disposable-mailbox.eu
 
@@ -49,13 +49,13 @@ No registration, completely non-binding, anonymous and free of charge!
 
 ---
 
-#### the history of disposable-mailbox
-disposable-mailbox was written by Aravindo Wingeier alias synox and developed further until 2019, after which the repository was unfortunately archived.  
-The repository pheifferch / disposable-mailbox wants to pick up where Synox left off.
+> #### the history of disposable-mailbox
+> disposable-mailbox was written by Aravindo Wingeier alias synox and developed further until 2019, after which the repository was unfortunately archived.  
+> The repository pheifferch / disposable-mailbox wants to pick up where Synox left off.
 
 ---
 
-# ES
+> # ES
 
 ## disposable-mailbox y disposable-mailbox.eu
 
@@ -76,8 +76,35 @@ disposable-mailbox es el servicio de buzón desechable, autohospedado y más con
 
 ---
 
-#### la historia del disposable-mailbox
-disposable-mailbox fue escrito por Aravindo Wingeier alias synox y se desarrolló aún más hasta 2019, después de lo cual, lamentablemente, el repositorio se archivó.
-El repositorio pheifferch/disposable-mailbox quiere continuar donde lo dejó Synox.
+> #### la historia del disposable-mailbox
+> disposable-mailbox fue escrito por Aravindo Wingeier alias synox y se desarrolló aún más hasta 2019, después de lo cual, lamentablemente, el repositorio se archivó.
+> El repositorio pheifferch/disposable-mailbox quiere continuar donde lo dejó Synox.
 
 ---
+
+> # HR
+
+## disposable-mailbox i disposable-mailbox.eu
+
+### Razlika između disposable-mailbox i disposable-mailbox.eu
+jednokratni poštanski sandučić najpoznatija je, jednokratna poštanska poštanska usluga za anonimne jednokratne adrese e-pošte na Internetu!
+ Koristite vlastitu domenu samo za vas - privatnu i anonimnu!
+
+ Usluga disposable-mailbox.eu temelji se na spremištu GitHub i također je razvojno i testno okruženje uživo.
+ (Dakle, poput spremišta: Ovo je beta softver, i dalje postoje neriješeni problemi.)
+ Bez registracije, potpuno bez obveze, anonimno i besplatno!
+
+- [Početna stranica](https://gh.disposable-mailbox.eu/hr/)
+- [Ovako to djeluje](https://gh.disposable-mailbox.eu/hr/about.html)
+- [Zašto baciti mailove?](https://gh.disposable-mailbox.eu/hr/why.html)
+- [Pitanja](https://gh.disposable-mailbox.eu/hr/FAQ.html) 
+- [Vijesti](https://gh.disposable-mailbox.eu/hr/news.html) 
+
+---
+
+> #### priča o disposable-mailbox
+> disposable-mailbox napisao je Aravindo Wingeier alias synox i dalje se razvijao do 2019. godine, nakon čega je spremište nažalost arhivirano.
+> [Pfeifferch/disposable-mailbox](https://github.com/pfeifferch/disposable-mailbox) spremnik za spremište želi nastaviti tamo gdje je Synox stao.
+
+---
+
