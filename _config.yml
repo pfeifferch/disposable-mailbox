@@ -7,6 +7,6 @@ plugins:
 #remote_theme: pfeifferch/templates-r-jekyll-theme@disposablemailbox-green
 #remote_theme: pfeifferch/templates-r-jekyll-theme@disposablemailbox-grey
 #remote_theme: pfeifferch/templates-r-jekyll-theme@disposablemailbox-orange
-#remote_theme: pfeifferch/templates-r-jekyll-theme@disposablemailbox-red
-remote_theme: pfeifferch/templates-r-jekyll-theme@disposablemailbox-yellow
+remote_theme: pfeifferch/templates-r-jekyll-theme@disposablemailbox-red
+#remote_theme: pfeifferch/templates-r-jekyll-theme@disposablemailbox-yellow
 livereload: true
