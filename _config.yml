@@ -1,1 +1,2 @@
-remote_theme: http[s]://github.com/poole/lanyon
+remote_theme: git@github.com:forestryio/ubuild-jekyll.git
+
