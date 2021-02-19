@@ -1,12 +1,18 @@
-[DE](https://gh.disposable-mailbox.eu/de/index.html) - [EN](https://gh.disposable-mailbox.eu/en/index.html) - [ES](https://gh.disposable-mailbox.eu/es/index.html)- [HR](https://gh.disposable-mailbox.eu/hr/index.html) - [NL](https://gh.disposable-mailbox.eu/nl/index.html)
+![Image](https://www.disposable-mailbox.eu/locale/Language-Icons/icon128px-exported-black.jpg)
+[DE](https://gh.disposable-mailbox.eu/de/index.html) 
+[EN](https://gh.disposable-mailbox.eu/en/index.html) 
+[ES](https://gh.disposable-mailbox.eu/es/index.html) 
+[HR](https://gh.disposable-mailbox.eu/hr/index.html) 
+[NL](https://gh.disposable-mailbox.eu/nl/index.html)
 
 ---
 
-> # DE
 
-## disposable-mailbox und disposable-mailbox.eu
+> ## DE
 
-### der Unterschied zwischen disposable-mailbox und disposable-mailbox.eu
+### disposable-mailbox und disposable-mailbox.eu
+
+#### der Unterschied zwischen disposable-mailbox und disposable-mailbox.eu
 disposable-mailbox ist der bekannteste, selbst gehostete, disposable mailbox service für anonyme Wegwerf-eMail-Adressen im Internet!
 Nutze deine eigene Domain nur für dich - privat & anonym!
 
@@ -28,11 +34,11 @@ Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
 
 ---
 
-> # En
+> ## En
 
-## disposable-mailbox and disposable-mailbox.eu
+### disposable-mailbox and disposable-mailbox.eu
 
-### the difference between disposable-mailbox and disposable-mailbox.eu
+#### the difference between disposable-mailbox and disposable-mailbox.eu
 disposable-mailbox is the best-known, self-hosted, disposable mailbox service for anonymous disposable email addresses on the Internet!  
 Use your own domain just for you - private & anonymous!
 
@@ -55,11 +61,11 @@ No registration, completely non-binding, anonymous and free of charge!
 
 ---
 
-> # ES
+> ## ES
 
-## disposable-mailbox y disposable-mailbox.eu
+### disposable-mailbox y disposable-mailbox.eu
 
-### la diferencia entre disposable-mailbox y disposable-mailbox.eu
+#### la diferencia entre disposable-mailbox y disposable-mailbox.eu
 disposable-mailbox es el servicio de buzón desechable, autohospedado y más conocido para direcciones de correo electrónico desechables anónimas en Internet.
  Utilice su propio dominio solo para usted, ¡privado y anónimo!
 
@@ -82,11 +88,11 @@ disposable-mailbox es el servicio de buzón desechable, autohospedado y más con
 
 ---
 
-> # HR
+> ## HR
 
-## disposable-mailbox i disposable-mailbox.eu
+### disposable-mailbox i disposable-mailbox.eu
 
-### Razlika između disposable-mailbox i disposable-mailbox.eu
+#### Razlika između disposable-mailbox i disposable-mailbox.eu
 jednokratni poštanski sandučić najpoznatija je, jednokratna poštanska poštanska usluga za anonimne jednokratne adrese e-pošte na Internetu!
  Koristite vlastitu domenu samo za vas - privatnu i anonimnu!
 
