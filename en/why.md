@@ -1,6 +1,8 @@
 [Home](https://gh.disposable-mailbox.eu/en/) - [How it works](https://gh.disposable-mailbox.eu/en/about.html) - [Why temporary eMails?](https://gh.disposable-mailbox.eu/en/why.html) - [FAQ](https://gh.disposable-mailbox.eu/en/FAQ.html) - [News](https://gh.disposable-mailbox.eu/en/news.html) 
 
-## WHY DO YOU USE DISPOSABLE EMAIL / TRASHMAIL ADDRESSES?
+---
+
+# WHY DO YOU USE DISPOSABLE EMAIL / TRASHMAIL ADDRESSES?
 
 Disposable email addresses are very popular on the web.  For some, such e-mail addresses are a blessing, for others a curse!
 
