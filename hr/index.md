@@ -1,9 +1,8 @@
 [Početna stranica](https://gh.disposable-mailbox.eu/hr/) - [Ovako to djeluje](https://gh.disposable-mailbox.eu/hr/about.html) - [Zašto baciti mailove?](https://gh.disposable-mailbox.eu/hr/why.html) - [Pitanja](https://gh.disposable-mailbox.eu/hr/FAQ.html) - [Vijesti](https://gh.disposable-mailbox.eu/hr/news.html) 
 
-# HR  ( [DE](https://gh.disposable-mailbox.eu/de/index.html) - [EN](https://gh.disposable-mailbox.eu/en/index.html) - [ES](https://gh.disposable-mailbox.eu/es/index.html)- [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
+---
 
-
-## disposable-mailbox i disposable-mailbox.eu
+# disposable-mailbox i disposable-mailbox.eu
 
 ### Razlika između disposable-mailbox i disposable-mailbox.eu
 jednokratni poštanski sandučić najpoznatija je, jednokratna poštanska poštanska usluga za anonimne jednokratne adrese e-pošte na Internetu!
