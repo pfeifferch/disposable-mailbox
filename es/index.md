@@ -2,9 +2,7 @@
 
 ---
 
-# ES ( [DE](https://gh.disposable-mailbox.eu/de/index.html) - [EN](https://gh.disposable-mailbox.eu/en/index.html) - [HR](https://gh.disposable-mailbox.eu/hr/index.html) - [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
-
-## disposable-mailbox y disposable-mailbox.eu
+# disposable-mailbox y disposable-mailbox.eu
 
 ### la diferencia entre disposable-mailbox y disposable-mailbox.eu
 disposable-mailbox es el servicio de buzón desechable, autohospedado y más conocido para direcciones de correo electrónico desechables anónimas en Internet.
