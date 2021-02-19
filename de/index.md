@@ -2,9 +2,6 @@
 
 ---
 
-## DE  ( [EN](https://gh.disposable-mailbox.eu/en/index.html) - [ES](https://gh.disposable-mailbox.eu/es/index.html)- [HR](https://gh.disposable-mailbox.eu/hr/index.html) - [NL](https://gh.disposable-mailbox.eu/nl/index.html) )
-
-
 # disposable-mailbox und disposable-mailbox.eu
 
 ### der Unterschied zwischen disposable-mailbox und disposable-mailbox.eu
