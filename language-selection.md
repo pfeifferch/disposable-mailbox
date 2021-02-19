@@ -1,10 +1,11 @@
 ---
 title: language-selection
-layout: default
 permalink: /language-selection.html
 ---
 
-# ![language selection](https://www.disposable-mailbox.eu/locale/Language-Icons/icon128px-exported-black.jpg)
+# Language Selection 
+
+![language selection](https://www.disposable-mailbox.eu/locale/Language-Icons/icon128px-exported-black.jpg)
 
 [DE](https://gh.disposable-mailbox.eu/de/index.html) 
 [EN](https://gh.disposable-mailbox.eu/en/index.html) 
