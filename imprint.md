@@ -1,10 +1,12 @@
-## IMPRESSUM DMB
+## IMPRESSUM
 
 ### Anbieterkennzeichnung
 Diese Webseite ist ein Privates Projekt und wird ohne Gewinnabsichten* Betrieben von:
 
 > Christian Pfeiffer
+> 
 > CAYA Postbox 474428
+> 
 > 11516 Berlin
 >  
 > Stichwort: DMb
