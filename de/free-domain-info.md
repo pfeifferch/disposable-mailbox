@@ -1,4 +1,4 @@
-# Info zu den genutzten Free-Domains
+## Info zu den genutzten Free-Domains
 
 Dieser Dienst wird zu Testzwecken und Unentgeltlich bereitgestellt, es besteht keine Garantie für eine ständige Verfügbarkeit insbesondere nicht für die Nutzbarkeit der Domains.
 
