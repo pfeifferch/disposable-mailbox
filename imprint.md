@@ -1,6 +1,6 @@
-# IMPRESSUM DMB
+## IMPRESSUM DMB
 
-## Anbieterkennzeichnung
+### Anbieterkennzeichnung
 Diese Webseite ist ein Privates Projekt und wird ohne Gewinnabsichten* Betrieben von:
 
 > Christian Pfeiffer
@@ -15,16 +15,16 @@ Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV:
 
 > Christian Pfeiffer
 
-#### Klausel
+##### Klausel
 > Der Nutzung von im Rahmen der Impressumspflicht sowie im Rahmen der Domainregistrierung beim Registrar (ggf.) veröffentlichten Kontaktdaten (Whois) durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen.
 > Die oben genannte Anschrift ist ohnehin nur zur Zustellung von Schriftlicher Post geeignet, (unaufgeforderte) Werbematerialien, Kataloge und ähnliches werden Vernichtet – Päckchen, Pakete und andere Großsendungen sind nicht zustellbar.
 > Als Betreiber der Seite behalte ich mir ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen; etwa durch Spam-Mails, Werbeanrufe, ect.; vor.
 
  
 
-## Kontakt
+### Kontakt
 
-### Telefonisch:
+#### Telefonisch:
 > Eine Telefonische Kontaktaufnahme ist möglich unter der Rufnummer
 > 0049 (0) 15678 einundfünfzig 4393
 >  
@@ -33,11 +33,11 @@ Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV:
 >  
 > Ein Empfang von SMS ist NICHT möglich!
 
-### FAX:
+#### FAX:
 > –
 
-### Mail:
+#### Mail:
 > zum Kontaktformular
 
-### Threema:
+#### Threema:
 > D4HT89CW
