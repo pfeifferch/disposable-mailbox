@@ -2,6 +2,7 @@
 title: DISPOSABLE-MAILBOX [ Sprachauswahl | language-selection | Selección de idioma | izbor jezika | taal selectie ]
 permalink: /index.html
 ---
+<script data-ad-client="ca-pub-4707755831661485" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 ## Sprachauswahl | language-selection | Selección de idioma | izbor jezika | taal selectie 
 
