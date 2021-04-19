@@ -11,4 +11,4 @@ Das hat einerseits den Vorteil, das die Domains aufgrund der Rotation nicht so o
 
 
 
-Die Domain disposable-mailbox.eu ist eine feste Domain und es ist nicht geplant, diese abzuschalten. 
+Die Domain disposable-mailbox.eu ist eine feste Domain für die Website (jedoch nicht für den Mail-Empfang freigeschaltet) und es ist nicht geplant, diese abzuschalten. 
