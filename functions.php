@@ -52,8 +52,8 @@ function getShortPreferredLanguage(){
 		if(!$weight){$weight = 1.0;}
 
 		if($weight > $maxWeight){
-			$ShortpreferredLanguage = substr($SacceptedLanguage, 0, 2); */ //gekürzt
-			/* $ShortpreferredLanguage = substr($SacceptedLanguage, 0, 2); */ //ungekürzt
+			$ShortpreferredLanguage = substr($SacceptedLanguage, 0, 2); //gekürzt
+			// $ShortpreferredLanguage = substr($SacceptedLanguage, 0, 2);  //ungekürzt
 			// $ShortpreferredLanguage = $SacceptedLanguage; 			$maxWeight = $weight;
 		}
 	}
