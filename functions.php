@@ -39,7 +39,7 @@ $PreferredLocale = str_replace("-", "_", $PreferredLocale);
 $localeselected = htmlspecialchars($_REQUEST['localeselect']);
 
 
-/*
+/**/
 function getShortPreferredLanguage(){
 
 	$SacceptedLanguages = @explode(',', $_SERVER['HTTP_ACCEPT_LANGUAGE']);
@@ -63,7 +63,7 @@ function getShortPreferredLanguage(){
 $ShortPreferredLocale = getShortPreferredLanguage(); 
 $ShortPreferredLocale = str_replace("-", "_", $ShortPreferredLocale);
 $Shortlocaleselected = htmlspecialchars($_REQUEST['localeselect']);
-*/
+/**/
 
 
 
