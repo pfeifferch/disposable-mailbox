@@ -39,6 +39,34 @@ $PreferredLocale = str_replace("-", "_", $PreferredLocale);
 $localeselected = htmlspecialchars($_REQUEST['localeselect']);
 
 
+
+function getShortPreferredLanguage(){
+
+	$SacceptedLanguages = @explode(',', $_SERVER['HTTP_ACCEPT_LANGUAGE']);
+	$SpreferredLanguage = null;
+	$maxWeight = 0.0;
+
+	foreach((array)$SacceptedLanguages as $SacceptedLanguage){
+
+		$weight = (float)@substr(explode(';', $SacceptedLanguage)[1], 2);
+		if(!$weight){$weight = 1.0;}
+
+		if($weight > $maxWeight){
+			$ShortpreferredLanguage = substr($SacceptedLanguage, 0, 2); */ //gekürzt
+			/* $ShortpreferredLanguage = substr($SacceptedLanguage, 0, 2); */ //ungekürzt
+			// $ShortpreferredLanguage = $SacceptedLanguage; 			$maxWeight = $weight;
+		}
+	}
+
+	return $ShortpreferredLanguage;
+}
+$ShortPreferredLocale = getShortPreferredLanguage(); 
+$ShortPreferredLocale = str_replace("-", "_", $ShortPreferredLocale);
+$Shortlocaleselected = htmlspecialchars($_REQUEST['localeselect']);
+
+
+
+
 //Extrakt Domain and eat all Subdomains  
 $just_domain = preg_replace("/^(.*\.)?([^.]*\..*)$/", "$2", $_SERVER['HTTP_HOST']);
 $dotted_sub_domain = preg_replace("/^(.*\.)?([^.]*\..*)$/", "$1", $_SERVER['HTTP_HOST']);
